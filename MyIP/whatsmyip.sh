@@ -1,3 +1,3 @@
 #!/bin/sh
 
-dig +short myip.opendns.com @resolver1.opendns.com
+dig +short myip.opendns.com ANY @resolver1.opendns.com
